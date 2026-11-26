@@ -16,7 +16,7 @@ body {
   overflow-x: hidden;
 }
 main {
-  width: min(92vw, 560px);
+  width: min(92vw, 800px);
   text-align: center;
   padding: 2rem 0;
 }
